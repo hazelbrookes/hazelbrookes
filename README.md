@@ -16,7 +16,7 @@
   
 </td>
 <td>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66bf11c991320df4bd0ade34?variant=dark&roadmaps=android" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66bf11c991320df4bd0ade34?variant=dark" alt="roadmap.sh"/></a>
 </td>
 </tr>
 </table>
