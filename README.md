@@ -4,7 +4,7 @@
 <tr>
 <td>
 
-```jsonc
+```kotlin
 - 🔭 I’m currently working on Mobile Shared Components
 - 🌱 I’m currently learning Jetpack Compose
 - 🤔 I’m looking for help with anything and everything
