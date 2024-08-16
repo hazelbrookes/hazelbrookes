@@ -9,6 +9,4 @@
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I have a hamster called Custard 🐹
 ```
-  
-[![roadmap.sh](https://roadmap.sh/card/wide/66bf11c991320df4bd0ade34?variant=dark)](https://roadmap.sh)
-
+<img src="https://roadmap.sh/card/wide/66bf11c991320df4bd0ade34?" alt="roadmap.sh"/>
